@@ -3,11 +3,14 @@
 This project is a recreation of Mastermind with numbers as seen in the game Sleeping Dogs.
 
 It was developed using Unreal Engine 5, and all functionality was written in C++, all UI animations where achieved by using Tweens, code based animations.
-
-![TEST](repo_gifs/showhint.gif)
-![TEST](repo_gifs/loading.gif)
-![TEST](repo_gifs/sequence.gif)
-
+<!--- 
+![](repo_gifs/showhint.gif)
+![](repo_gifs/loading.gif)
+![](repo_gifs/sequence.gif)
+-->
+![](repo_gifs/55test.gif)
+![](repo_gifs/55test.gif)
+![](repo_gifs/55test.gif)
 
 You can try the demo [here](TBA).
 

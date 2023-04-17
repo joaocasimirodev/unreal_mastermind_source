@@ -1,7 +1,8 @@
 # Mastermind - Source Code
 
 This project is a recreation of Mastermind with numbers as seen in the game Sleeping Dogs.
-All UI animations where achieved by using Tweens, code based animations.
+
+It was developed using Unreal Engine 5, and all functionality was written in C++, all UI animations where achieved by using Tweens, code based animations.
 
 You can try the demo [here](TBA).
 

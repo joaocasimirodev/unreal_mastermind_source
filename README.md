@@ -1,8 +1,8 @@
 # Mastermind - Source Code
 
-This project is a recreation of Mastermind with numbers as seen in the game Sleeping Dogs.
+This project is a recreation of Mastermind with numbers as is seen in the game Sleeping Dogs.
 
-It was developed using Unreal Engine 5, and all functionality was written in C++, all UI animations where achieved by using Tweens, code based animations.
+It was developed using the Unreal Engine 5, all functionality was written in C++ and all existing UI animations were achieved by creating Tweens (code based animations).
 
 ![](repo_gifs/show.gif)
 ![](repo_gifs/loading.gif)
@@ -13,7 +13,7 @@ You can try the demo [here](TBA).
 
 ### Dependencies
 
-This code requires the [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) plugin, a cool tweening library created by Jared Cook.
+This project requires the [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) plugin, a cool tweening library created by Jared Cook.
 
 ## License
 

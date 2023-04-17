@@ -4,10 +4,10 @@ This project is a recreation of Mastermind with numbers as seen in the game Slee
 
 It was developed using Unreal Engine 5, and all functionality was written in C++, all UI animations where achieved by using Tweens, code based animations.
 
-![TEST](repo_gifs/gif365x440.gif)
-![TEST](repo_gifs/gif365x440.gif)
-![TEST](repo_gifs/gif365x440.gif)
-![TEST](repo_gifs/gif365x440.gif)
+![TEST](repo_gifs/showhint.gif)
+![TEST](repo_gifs/loading.gif)
+![TEST](repo_gifs/sequence.gif)
+
 
 You can try the demo [here](TBA).
 

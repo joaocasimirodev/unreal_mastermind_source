@@ -11,7 +11,7 @@ It was developed using the Unreal Engine 5, all functionality was written in C++
 
 
 
-You can try the demo [here](TBA).
+You can download the demo [here](TBA) (Windows only).
 
 ### Dependencies
 

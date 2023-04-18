@@ -9,7 +9,7 @@ It was developed using the Unreal Engine 5, all functionality was written in C++
 ![](repo_gifs/sequence.gif)
 
 
-You can download the demo [here](https://mega.nz/file/vopQAaIJ#n_XcjY25uvOf0RecZ9bKf1Kj2lPBZzZznnTr7kFR23k).
+You can download the demo [here](https://mega.nz/file/vopQAaIJ#n_XcjY25uvOf0RecZ9bKf1Kj2lPBZzZznnTr7kFR23k) (Windows Only).
 
 ### Dependencies
 

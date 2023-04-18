@@ -405,7 +405,7 @@ void UCombinationWidget::SequentialHideHintTweens()
    
     //Sequential works by Hiding the first in the list and once it has finished
     //it makes a handshake triggering the ClearHintAndHideNextHint() 
-    //it continues to do it subsequently until the all hints are cleared    
+    //it continues to do it subsequently until all the hints are cleared    
 
     if(HintEntries.Num() > 0)
     {

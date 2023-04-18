@@ -4,7 +4,7 @@ This project is a recreation of Mastermind with numbers as is seen in the game S
 
 It was developed using the Unreal Engine 5, all functionality was written in C++ and all existing UI animations were achieved by creating Tweens (code based animations).
 
-[](repo_gifs/show.gif)
+![](repo_gifs/show.gif)
 ![](repo_gifs/loading.gif)
 ![](repo_gifs/sequence.gif)
 

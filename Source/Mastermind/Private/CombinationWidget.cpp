@@ -57,7 +57,7 @@ void UCombinationWidget::CreditsAction()
    UKismetSystemLibrary::LaunchURL("https://joaocasimiro.pt/");
 }
 
-#pragma region  DataHangling
+#pragma region  DataHandling
 void UCombinationWidget::SetUpDataTable() 
 {
     if (CodeTable == nullptr)
@@ -123,7 +123,7 @@ void UCombinationWidget::UpdateClock()
         NativeClockText->SetText(FText::FromString(time));      
     } 
 }
-#pragma endregion DataHangling
+#pragma endregion DataHandling
 
 #pragma region  GamePlay
 void UCombinationWidget::PopulateDials()
